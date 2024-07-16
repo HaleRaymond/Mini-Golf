@@ -102,4 +102,3 @@ Be respectful to other contributors as well as moderators. No disrespectful comm
 
 ----
 
-Dumonteil Maxime & Meyrat Maxime
